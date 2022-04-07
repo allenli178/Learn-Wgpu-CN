@@ -1,0 +1,8 @@
+[book]
+title = "Learn-Wgpu"
+description = "Learn-Wgpu is a book about WebGPU chinese version"
+authors = ["allenli178"]
+language = "cn"
+multilingual = false
+src = "src"
+
